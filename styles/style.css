@@ -55,3 +55,122 @@ body{
     width: 500px;
     height: 600px;
 }
+/* My Mission Section */
+.my-mission-container{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.mission-title{
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+}
+.card-box{
+    width: 80%;
+    margin-bottom: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+#card1{
+   background-color: rgba(79, 157, 166, 0.1); 
+    padding: 30px;
+    border-radius: 16px;
+}
+#card2{
+    background-color: rgba(255, 89, 89, 0.1); 
+    padding: 30px;
+    border-radius: 16px;
+}
+#card3{
+    background-color: rgba(255, 244, 214, 1); 
+    padding: 30px;
+    border-radius: 16px;
+}
+
+.image1{
+    width: 150px;
+    height: 150px;
+}
+.card-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.card-description{
+    color: rgb(66,66,66);
+    line-height: 24px;
+}
+/* related works section */
+.related-works-container{
+    width: 85%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 120px;
+}
+.img-container{
+    width: 50%;
+    margin-left: 0px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: left;
+   
+}
+.img-container1{
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: right;
+}
+.image2{
+    width: 400px;
+    height: 400px;
+    position: relative; 
+   translate: -100px 0px;
+    
+}
+.image4{
+    width: 400px;
+    height: 400px;
+    position:relative;
+}
+.image3{
+    width: 200px;
+    height: 200px;
+    translate:0px 100px;
+}
+.related-works-container1{
+    width: 85%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 120px;
+}
+.img-container1 .image3{
+    width: 150px;
+    height: 150px;
+    translate:470px 300px;
+   
+}
+.texts{
+    width: 60%;
+    margin-bottom: 30px;
+}
+.title{
+    font-size: 36px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.description{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
