@@ -50,5 +50,28 @@
     .img-container1 .image3{
         translate: 240px 110px;
     }
+    .title-container  .title{
+        font-size: 28px;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .corona-application-container{
+        flex-direction: column;
+    }
+    .images-holder{
+        width: 100%;
+    }
+    #shape-3-1{
+        translate: -10px 40px;
+    }
+    #shape-3-2{
+        translate: -150px 470px;
+    }
+    #shape-3-3{
+        translate: 240px 260px;
+    }
+    #app{
+        translate: 20px -200px;
+    }
     
 }

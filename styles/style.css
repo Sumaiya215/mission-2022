@@ -174,3 +174,39 @@ body{
     line-height: 28px;
     margin-bottom: 20px;
 }
+/* Corona Application Section */
+.title-container{
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+.title-container  .title{
+    text-align: center;
+}
+.corona-application-container{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#shape-3-1{
+    width: 150px;
+    height: 150px;
+    translate: -40px 30px;
+}
+#shape-3-2{
+    width: 100px;
+    height: 100px;
+    translate:-170px 470px ;
+}
+#shape-3-3{
+    width: 100px;
+    height: 100px;
+    translate: -40px 360px;
+}
+#app{
+    width: 300px;
+    height: 550px;
+    position: relative;
+    translate: 0px -100px;
+}
