@@ -210,3 +210,35 @@ body{
     position: relative;
     translate: 0px -100px;
 }
+/* footer Section */
+footer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding-top:30px;
+    padding-bottom: 70px;
+    margin-bottom: 50px;
+    /* filter: rgba(99, 180, 184, 1); */
+ }
+
+ footer h3{
+    font-family:"Lobster", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 30px;
+ }
+ .span1{
+    color: rgba(255, 255, 255, 1);
+ }
+ .span2{
+    color: rgba(255, 89, 89, 1);
+ }
+ footer p{
+    font-size: 12px;
+    font-weight: 300;
+    color: rgba(217, 219, 225, 1);
+ }
